@@ -1,0 +1,30 @@
+name: Commit about us icon
+on:
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Decode PNG and clean up
+        run: |
+          set -euo pipefail
+          cat about/about-us-icon.png.b64.part0 \
+              about/about-us-icon.png.b64.part1 \
+              about/about-us-icon.png.b64.part2 \
+              about/about-us-icon.png.b64.part3 \
+            | base64 -d > about/about-us-icon.png
+          python3 -c 'import hashlib; raw=open("about/about-us-icon.png","rb").read(); assert raw[:8]==b"\x89PNG\r\n\x1a\n", raw[:16]; assert len(raw)==467541; assert hashlib.sha256(raw).hexdigest()=="211771ce0d205a5938512cc885a29a7a5dfa80d4f47e4ab0c93bfc5e0832d3fc"; print("png ok", len(raw))'
+          rm -f about/about-us-icon.png.b64.part0 about/about-us-icon.png.b64.part1 about/about-us-icon.png.b64.part2 about/about-us-icon.png.b64.part3
+          rm -f about/about-us-icon.png.b64 about/_encoding-test.png
+          rm -f .github/workflows/commit-about-icon.yml
+      - name: Commit
+        run: |
+          git config user.name "haven-bot"
+          git config user.email "haven-bot@users.noreply.github.com"
+          git add -A
+          git status
+          git commit -m "Add About us tile icon (Wade and Josy cartoon)"
+          git push
