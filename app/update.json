@@ -2,16 +2,21 @@
   "schema": 1,
   "channels": {
     "test": {
-      "versionCode": 141,
-      "versionName": "0.10.81",
-      "url": "https://github.com/wadeboyes/haven-tv-media/releases/download/v0.10.81/coorparoo-haven-welcome-0.10.81.apk",
-      "sha256": "0ee99660494a1f28726f1d8163f30c76e50c78a46a29e7f474a4660be58a177b"
+      "versionCode": 143,
+      "versionName": "0.10.83",
+      "url": "https://github.com/wadeboyes/haven-tv-media/releases/download/v0.10.83/coorparoo-haven-welcome-0.10.83.apk",
+      "sha256": "093c2fcdbb4b1d6c6bf415b36b7dda63855303f258e5c99c101f9fb6b9962bad"
     },
     "approved": {
-      "versionCode": 141,
-      "versionName": "0.10.81",
-      "url": "https://github.com/wadeboyes/haven-tv-media/releases/download/v0.10.81/coorparoo-haven-welcome-0.10.81.apk",
-      "sha256": "0ee99660494a1f28726f1d8163f30c76e50c78a46a29e7f474a4660be58a177b"
+      "versionCode": 143,
+      "versionName": "0.10.83",
+      "url": "https://github.com/wadeboyes/haven-tv-media/releases/download/v0.10.83/coorparoo-haven-welcome-0.10.83.apk",
+      "sha256": "093c2fcdbb4b1d6c6bf415b36b7dda63855303f258e5c99c101f9fb6b9962bad"
     }
+  },
+  "rooms": {
+    "room-7": "test",
+    "room-2": "test",
+    "studio": "test"
   }
 }
