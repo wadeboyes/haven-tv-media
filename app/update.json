@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "channels": {
+    "test": {
+      "versionCode": 138,
+      "versionName": "0.10.78",
+      "url": "https://github.com/wadeboyes/haven-tv-media/releases/download/v0.10.78/coorparoo-haven-welcome-0.10.78.apk",
+      "sha256": "686f4fc20c35cd1fa4e7c7a37cd69da4a507ad7e79deaecde187cb5cfdfa4a29"
+    }
+  }
+}
