@@ -8,10 +8,10 @@
       "sha256": "6e14e686a6baa00164bfc9b2f8d327ad0d16e1e03980b15610c125bab1f95abf"
     },
     "approved": {
-      "versionCode": 151,
-      "versionName": "0.10.91",
-      "url": "https://github.com/wadeboyes/haven-tv-media/releases/download/v0.10.91/coorparoo-haven-welcome-0.10.91.apk",
-      "sha256": "0979d0f62ab99bf02b6e0a74f80b206fe3585376e857c4d8aacd4edd0b77fbae"
+      "versionCode": 152,
+      "versionName": "0.10.92",
+      "url": "https://github.com/wadeboyes/haven-tv-media/releases/download/v0.10.92/coorparoo-haven-welcome-0.10.92.apk",
+      "sha256": "6e14e686a6baa00164bfc9b2f8d327ad0d16e1e03980b15610c125bab1f95abf"
     }
   },
   "rooms": {
