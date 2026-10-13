@@ -2,10 +2,10 @@
   "schema": 1,
   "channels": {
     "test": {
-      "versionCode": 149,
-      "versionName": "0.10.89",
-      "url": "https://github.com/wadeboyes/haven-tv-media/releases/download/v0.10.89/coorparoo-haven-welcome-0.10.89.apk",
-      "sha256": "16aac6732d453d468aa4aa66b0afecaaf3172d6828f2c1fc111586b8efbb7726"
+      "versionCode": 150,
+      "versionName": "0.10.90",
+      "url": "https://github.com/wadeboyes/haven-tv-media/releases/download/v0.10.90/coorparoo-haven-welcome-0.10.90.apk",
+      "sha256": "7b0ceec1ba21e9083f9e447d043d5d859e00962d3bf394cc245205c6ec8cca6e"
     },
     "approved": {
       "versionCode": 143,
