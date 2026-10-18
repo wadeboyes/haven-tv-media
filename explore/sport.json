@@ -1,69 +1,9 @@
 {
-  "generated": "2026-10-12",
-  "window": "2026-10-12 to 2026-12-07",
+  "generated": "2026-10-19",
+  "window": "2026-10-19 to 2026-12-14",
   "timezone": "AEST (Brisbane)",
   "note": "Refresh weekly by hand. Hide events whose date has passed.",
   "events": [
-    {
-      "date": "2026-10-14",
-      "time": "See website for race times",
-      "sport": "Horse racing",
-      "event": "Milliners Spring Showcase",
-      "venue": "Eagle Farm Racecourse",
-      "suburb": "Ascot",
-      "cost": "Paid tickets",
-      "url": "https://www.brc.com.au/calendar/",
-      "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=Eagle+Farm+Racecourse%2C+Ascot%2C+QLD",
-      "verified": true
-    },
-    {
-      "date": "2026-10-15",
-      "time": "6:30pm",
-      "sport": "Basketball (NBL)",
-      "event": "Brisbane Bullets v S.E. Melbourne Phoenix",
-      "venue": "Brisbane Entertainment Centre",
-      "suburb": "Boondall",
-      "cost": "Paid tickets",
-      "url": "https://www.brisbanebullets.com.au/schedule",
-      "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=Brisbane+Entertainment+Centre%2C+Boondall%2C+QLD",
-      "verified": true
-    },
-    {
-      "date": "2026-10-17",
-      "time": "4:05pm (as listed by the club)",
-      "sport": "AFL Women's",
-      "event": "Brisbane Lions v Port Adelaide",
-      "venue": "Brighton Homes Arena",
-      "suburb": "Springfield Central",
-      "cost": "Adults $20, kids free",
-      "url": "https://www.lions.com.au/news/2076405/2026-aflw-tickets-on-sale-now",
-      "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=Brighton+Homes+Arena%2C+Springfield+Central%2C+QLD",
-      "verified": true
-    },
-    {
-      "date": "2026-10-17",
-      "time": "4:00pm",
-      "sport": "Football (A-League Women)",
-      "event": "Brisbane Roar v Central Coast Mariners",
-      "venue": "Spencer Park",
-      "suburb": "Newmarket",
-      "cost": "Paid tickets",
-      "url": "https://brisbaneroar.com.au/news/brisbane-roar-2026-27-ninja-a-league-women-draw-confirmed/",
-      "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=Spencer+Park%2C+Newmarket%2C+QLD",
-      "verified": true
-    },
-    {
-      "date": "2026-10-17",
-      "time": "See website for race times",
-      "sport": "Horse racing",
-      "event": "Sky Racing Everest Raceday",
-      "venue": "Doomben Racecourse",
-      "suburb": "Ascot",
-      "cost": "Paid tickets",
-      "url": "https://www.brc.com.au/calendar/",
-      "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=Doomben+Racecourse%2C+Ascot%2C+QLD",
-      "verified": true
-    },
     {
       "date": "2026-10-23",
       "time": "7:00pm",
@@ -98,6 +38,18 @@
       "cost": "Paid tickets",
       "url": "https://www.brc.com.au/calendar/",
       "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=Doomben+Racecourse%2C+Ascot%2C+QLD",
+      "verified": true
+    },
+    {
+      "date": "2026-10-24",
+      "time": "4:05pm",
+      "sport": "AFL Women's",
+      "event": "Gold Coast SUNS v Richmond",
+      "venue": "People First Stadium (Carrara)",
+      "suburb": "Carrara, Gold Coast",
+      "cost": "Paid tickets",
+      "url": "https://peoplefirststadium.com.au/events/aflw-gold-coast-suns-vs--richmond-",
+      "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=People+First+Stadium+%28Carrara%29%2C+Carrara%2C+Gold+Coast%2C+QLD",
       "verified": true
     },
     {
@@ -194,6 +146,18 @@
       "cost": "See website",
       "url": "https://thegabba.com.au/whats-on",
       "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=The+Gabba%2C+Woolloongabba%2C+QLD",
+      "verified": true
+    },
+    {
+      "date": "2026-10-31",
+      "time": "12:20pm (three matches, last at 4:45pm)",
+      "sport": "Rugby league (World Cup)",
+      "event": "Fiji v France (women), New Zealand v Fiji (men), New Zealand v PNG (women)",
+      "venue": "Cbus Super Stadium",
+      "suburb": "Robina, Gold Coast",
+      "cost": "Paid tickets",
+      "url": "https://cbussuperstadium.com.au/events/rugby-league-world-cup-2026",
+      "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=Cbus+Super+Stadium%2C+Robina%2C+Gold+Coast%2C+QLD",
       "verified": true
     },
     {
@@ -294,7 +258,7 @@
     },
     {
       "date": "2026-11-15",
-      "time": "Women's and men's finals double header (kick-off TBC)",
+      "time": "Women's final 3:10pm, men's final 6:35pm",
       "sport": "Rugby league (World Cup)",
       "event": "Rugby League World Cup 2026 men's and women's finals",
       "venue": "Suncorp Stadium",
@@ -434,6 +398,30 @@
       "cost": "Paid tickets",
       "url": "https://www.brc.com.au/calendar/",
       "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=Doomben+Racecourse%2C+Ascot%2C+QLD",
+      "verified": true
+    },
+    {
+      "date": "2026-12-11",
+      "time": "See website for race times",
+      "sport": "Horse racing",
+      "event": "Christmas Party Raceday",
+      "venue": "Doomben Racecourse",
+      "suburb": "Ascot",
+      "cost": "Paid tickets",
+      "url": "https://www.brc.com.au/calendar/",
+      "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=Doomben+Racecourse%2C+Ascot%2C+QLD",
+      "verified": true
+    },
+    {
+      "date": "2026-12-12",
+      "time": "See website for race times",
+      "sport": "Horse racing",
+      "event": "Ladbrokes Gateway",
+      "venue": "Eagle Farm Racecourse",
+      "suburb": "Ascot",
+      "cost": "Paid tickets",
+      "url": "https://www.brc.com.au/calendar/",
+      "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=Eagle+Farm+Racecourse%2C+Ascot%2C+QLD",
       "verified": true
     }
   ]
