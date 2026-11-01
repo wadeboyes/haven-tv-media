@@ -1,103 +1,19 @@
 {
-  "generated": "2026-10-26",
-  "window": "2026-10-26 to 2026-12-21",
+  "generated": "2026-11-02",
+  "window": "2026-11-02 to 2026-12-28",
   "timezone": "AEST (Brisbane)",
   "note": "Refresh weekly by hand. Hide events whose date has passed.",
   "events": [
     {
-      "date": "2026-10-29",
-      "time": "7:00pm",
-      "sport": "Basketball (NBL)",
-      "event": "Brisbane Bullets v Cairns Taipans",
-      "venue": "Brisbane Entertainment Centre",
-      "suburb": "Boondall",
-      "cost": "Paid tickets",
-      "url": "https://www.brisbanebullets.com.au/schedule",
-      "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=Brisbane+Entertainment+Centre%2C+Boondall%2C+QLD",
-      "verified": true
-    },
-    {
-      "date": "2026-10-30",
-      "time": "6:10pm",
-      "sport": "Cricket (WBBL)",
-      "event": "Brisbane Heat v Sydney Sixers",
-      "venue": "Allan Border Field",
-      "suburb": "Albion",
-      "cost": "Paid tickets",
-      "url": "https://www.brisbaneheat.com.au/news/4534951/heat-set-for-prime-time-big-bash",
-      "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=Allan+Border+Field%2C+Albion%2C+QLD",
-      "verified": true
-    },
-    {
-      "date": "2026-10-30",
-      "time": "7:00pm",
-      "sport": "Football (A-League Men)",
-      "event": "Brisbane Roar v Auckland FC",
-      "venue": "Suncorp Stadium",
-      "suburb": "Milton",
-      "cost": "Paid tickets",
-      "url": "https://brisbaneroar.com.au/news/brisbane-roar-2026-27-isuzu-ute-a-league-men-draw-confirmed/",
-      "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=Suncorp+Stadium%2C+Milton%2C+QLD",
-      "verified": true
-    },
-    {
-      "date": "2026-10-31",
-      "time": "4:05pm",
-      "sport": "AFL Women's",
-      "event": "Brisbane Lions v Carlton",
-      "venue": "Brighton Homes Arena",
-      "suburb": "Springfield Central",
-      "cost": "Adults $20, kids free",
-      "url": "https://www.lions.com.au/news/2076405/2026-aflw-tickets-on-sale-now",
-      "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=Brighton+Homes+Arena%2C+Springfield+Central%2C+QLD",
-      "verified": true
-    },
-    {
-      "date": "2026-10-31",
-      "time": "2:00pm",
-      "sport": "Football (A-League Women)",
-      "event": "Brisbane Roar v Sydney FC",
-      "venue": "Spencer Park",
-      "suburb": "Newmarket",
-      "cost": "Paid tickets",
-      "url": "https://brisbaneroar.com.au/news/brisbane-roar-2026-27-ninja-a-league-women-draw-confirmed/",
-      "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=Spencer+Park%2C+Newmarket%2C+QLD",
-      "verified": true
-    },
-    {
-      "date": "2026-10-31",
-      "time": "See website for race times",
-      "sport": "Horse racing",
-      "event": "Higgins Coatings Derby Raceday",
-      "venue": "Doomben Racecourse",
-      "suburb": "Ascot",
-      "cost": "Paid tickets",
-      "url": "https://www.brc.com.au/calendar/",
-      "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=Doomben+Racecourse%2C+Ascot%2C+QLD",
-      "verified": true
-    },
-    {
-      "date": "2026-10-31",
+      "date": "2026-11-02",
       "time": "10:00am daily (to 3 Nov)",
       "sport": "Cricket (Sheffield Shield)",
-      "event": "Queensland Bulls v Victoria, 4 days",
+      "event": "Queensland Bulls v Victoria, days 3 and 4",
       "venue": "The Gabba",
       "suburb": "Woolloongabba",
       "cost": "See website",
       "url": "https://thegabba.com.au/whats-on",
       "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=The+Gabba%2C+Woolloongabba%2C+QLD",
-      "verified": true
-    },
-    {
-      "date": "2026-10-31",
-      "time": "12:20pm (three matches, last at 4:45pm)",
-      "sport": "Rugby league (World Cup)",
-      "event": "Fiji v France (women), New Zealand v Fiji (men), New Zealand v PNG (women)",
-      "venue": "Cbus Super Stadium",
-      "suburb": "Robina, Gold Coast",
-      "cost": "Paid tickets",
-      "url": "https://cbussuperstadium.com.au/events/rugby-league-world-cup-2026",
-      "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=Cbus+Super+Stadium%2C+Robina%2C+Gold+Coast%2C+QLD",
       "verified": true
     },
     {
@@ -161,6 +77,18 @@
       "verified": true
     },
     {
+      "date": "2026-11-08",
+      "time": "2:05pm",
+      "sport": "AFL Women's (finals)",
+      "event": "Gold Coast Suns v Hawthorn, elimination final",
+      "venue": "People First Stadium (Carrara)",
+      "suburb": "Carrara, Gold Coast",
+      "cost": "Adults $15, kids under 15 free (book ahead)",
+      "url": "https://www.afl.com.au/aflw/news/1636601/its-finals-time-ticket-details-venues-fixture-for-week-one",
+      "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=People+First+Stadium+%28Carrara%29%2C+Carrara%2C+Gold+Coast%2C+QLD",
+      "verified": true
+    },
+    {
       "date": "2026-11-11",
       "time": "10:30am daily (to 14 Nov)",
       "sport": "Cricket (Sheffield Shield)",
@@ -200,7 +128,7 @@
       "date": "2026-11-15",
       "time": "Women's final 3:10pm, men's final 6:35pm",
       "sport": "Rugby league (World Cup)",
-      "event": "Rugby League World Cup 2026 men's and women's finals",
+      "event": "Rugby League World Cup 2026 men's and women's finals (teams decided by the semi-finals on 7 and 8 Nov)",
       "venue": "Suncorp Stadium",
       "suburb": "Milton",
       "cost": "Paid tickets",
@@ -317,6 +245,18 @@
       "verified": true
     },
     {
+      "date": "2026-11-29",
+      "time": "See website for race times",
+      "sport": "Horse racing",
+      "event": "National Thoroughbred Week Raceday",
+      "venue": "Eagle Farm Racecourse",
+      "suburb": "Ascot",
+      "cost": "Paid tickets",
+      "url": "https://www.brc.com.au/calendar/",
+      "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=Eagle+Farm+Racecourse%2C+Ascot%2C+QLD",
+      "verified": true
+    },
+    {
       "date": "2026-12-03",
       "time": "7:00pm",
       "sport": "Basketball (NBL)",
@@ -338,6 +278,18 @@
       "cost": "Paid tickets",
       "url": "https://www.brc.com.au/calendar/",
       "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=Doomben+Racecourse%2C+Ascot%2C+QLD",
+      "verified": true
+    },
+    {
+      "date": "2026-12-05",
+      "time": "Semi-finals from 10:00am, grand finals Sun 6 Dec from 10:30am",
+      "sport": "Hockey (Hockey One)",
+      "event": "Hockey One Finals Series, men's and women's semi-finals and grand finals (to 6 Dec)",
+      "venue": "Gold Coast Hockey Centre",
+      "suburb": "Labrador, Gold Coast",
+      "cost": "See website",
+      "url": "https://hockeyone.com.au/news/one-active-hockey-one-confirms-2026-finals-series-schedule/",
+      "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=Gold+Coast+Hockey+Centre%2C+Labrador%2C+Gold+Coast%2C+QLD",
       "verified": true
     },
     {
@@ -392,12 +344,48 @@
       "date": "2026-12-19",
       "time": "See website for race times",
       "sport": "Horse racing",
-      "event": "Grand Prix Day",
+      "event": "Cricks Highway Grand Prix Day",
       "venue": "Eagle Farm Racecourse",
       "suburb": "Ascot",
       "cost": "Paid tickets",
       "url": "https://www.brc.com.au/calendar/",
       "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=Eagle+Farm+Racecourse%2C+Ascot%2C+QLD",
+      "verified": true
+    },
+    {
+      "date": "2026-12-26",
+      "time": "See website for race times",
+      "sport": "Horse racing",
+      "event": "Seven Members Mile Day (Boxing Day)",
+      "venue": "Eagle Farm Racecourse",
+      "suburb": "Ascot",
+      "cost": "Paid tickets",
+      "url": "https://www.brc.com.au/calendar/",
+      "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=Eagle+Farm+Racecourse%2C+Ascot%2C+QLD",
+      "verified": true
+    },
+    {
+      "date": "2026-12-27",
+      "time": "4:00pm",
+      "sport": "Basketball (NBL)",
+      "event": "Brisbane Bullets v Cairns Taipans",
+      "venue": "Brisbane Entertainment Centre",
+      "suburb": "Boondall",
+      "cost": "Paid tickets",
+      "url": "https://www.brisent.com.au/brisbane-bullets-v-cairns-taipans-2-2026/",
+      "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=Brisbane+Entertainment+Centre%2C+Boondall%2C+QLD",
+      "verified": true
+    },
+    {
+      "date": "2026-12-28",
+      "time": "6:15pm",
+      "sport": "Cricket (BBL)",
+      "event": "Brisbane Heat v Adelaide Strikers (Festive Bash, Boxing Day public holiday)",
+      "venue": "The Gabba",
+      "suburb": "Woolloongabba",
+      "cost": "Paid tickets",
+      "url": "https://thegabba.com.au/whats-on",
+      "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=The+Gabba%2C+Woolloongabba%2C+QLD",
       "verified": true
     }
   ]
