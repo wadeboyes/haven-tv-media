@@ -16,6 +16,7 @@
   },
   "rooms": {
     "room-7": "test",
-    "studio": "test"
+    "studio": "test",
+    "room-2": "approved"
   }
 }
