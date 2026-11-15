@@ -1,57 +1,9 @@
 {
-  "generated": "2026-11-09",
-  "window": "2026-11-09 to 2027-01-03",
+  "generated": "2026-11-16",
+  "window": "2026-11-16 to 2027-01-10",
   "timezone": "AEST (Brisbane)",
   "note": "Refresh weekly by hand. Hide events whose date has passed.",
   "events": [
-    {
-      "date": "2026-11-11",
-      "time": "10:00am daily (to 14 Nov)",
-      "sport": "Cricket (Sheffield Shield)",
-      "event": "Queensland Bulls v Tasmania, 4 days",
-      "venue": "The Gabba",
-      "suburb": "Woolloongabba",
-      "cost": "Free entry (Gate 5)",
-      "url": "https://thegabba.com.au/events/bulls-v-tasmania-day-1",
-      "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=The+Gabba%2C+Woolloongabba%2C+QLD",
-      "verified": true
-    },
-    {
-      "date": "2026-11-14",
-      "time": "See website for race times",
-      "sport": "Horse racing",
-      "event": "CBT Keith Noud Stakes Day",
-      "venue": "Doomben Racecourse",
-      "suburb": "Ascot",
-      "cost": "Paid tickets",
-      "url": "https://www.brc.com.au/calendar/",
-      "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=Doomben+Racecourse%2C+Ascot%2C+QLD",
-      "verified": true
-    },
-    {
-      "date": "2026-11-15",
-      "time": "4:00pm",
-      "sport": "Basketball (NBL)",
-      "event": "Brisbane Bullets v Tasmania JackJumpers",
-      "venue": "Brisbane Entertainment Centre",
-      "suburb": "Boondall",
-      "cost": "Paid tickets",
-      "url": "https://www.brisbanebullets.com.au/schedule",
-      "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=Brisbane+Entertainment+Centre%2C+Boondall%2C+QLD",
-      "verified": true
-    },
-    {
-      "date": "2026-11-15",
-      "time": "Women's final 3:10pm, men's final 6:35pm",
-      "sport": "Rugby league (World Cup)",
-      "event": "Rugby League World Cup 2026 finals: women's final Australia Jillaroos v New Zealand Kiwi Ferns, men's final Australia Kangaroos v New Zealand Kiwis",
-      "venue": "Suncorp Stadium",
-      "suburb": "Milton",
-      "cost": "Paid tickets",
-      "url": "https://suncorpstadium.com.au/events/rugby-league-world-cup-2026-mens-womens-finals",
-      "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=Suncorp+Stadium%2C+Milton%2C+QLD",
-      "verified": true
-    },
     {
       "date": "2026-11-16",
       "time": "10:00am",
@@ -78,7 +30,7 @@
     },
     {
       "date": "2026-11-19",
-      "time": "See website",
+      "time": "2:40pm",
       "sport": "Cricket (WBBL)",
       "event": "Hobart Hurricanes v Perth Scorchers (day game before Heat v Thunder)",
       "venue": "Allan Border Field",
@@ -410,6 +362,54 @@
       "cost": "Paid tickets",
       "url": "https://www.nbl.com.au/club-schedule/bri",
       "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=Brisbane+Entertainment+Centre%2C+Boondall%2C+QLD",
+      "verified": true
+    },
+    {
+      "date": "2027-01-08",
+      "time": "6:15pm",
+      "sport": "Cricket (BBL)",
+      "event": "Brisbane Heat v Perth Scorchers",
+      "venue": "The Gabba",
+      "suburb": "Woolloongabba",
+      "cost": "Paid tickets",
+      "url": "https://thegabba.com.au/whats-on",
+      "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=The+Gabba%2C+Woolloongabba%2C+QLD",
+      "verified": true
+    },
+    {
+      "date": "2027-01-08",
+      "time": "6:30pm",
+      "sport": "Basketball (NBL)",
+      "event": "Brisbane Bullets v Sydney Kings (Pride Round)",
+      "venue": "Brisbane Entertainment Centre",
+      "suburb": "Boondall",
+      "cost": "Paid tickets",
+      "url": "https://www.brisent.com.au/brisbane-bullets-v-sydney-kings-2027/",
+      "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=Brisbane+Entertainment+Centre%2C+Boondall%2C+QLD",
+      "verified": true
+    },
+    {
+      "date": "2027-01-09",
+      "time": "5:00pm",
+      "sport": "Football (A-League Men)",
+      "event": "Brisbane Roar v Melbourne Victory",
+      "venue": "Kayo Stadium",
+      "suburb": "Redcliffe",
+      "cost": "Paid tickets",
+      "url": "https://brisbaneroar.com.au/news/brisbane-roar-2026-27-isuzu-ute-a-league-men-draw-confirmed/",
+      "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=Kayo+Stadium%2C+Redcliffe%2C+QLD",
+      "verified": true
+    },
+    {
+      "date": "2027-01-09",
+      "time": "First race 2:05pm, last race about 7:50pm",
+      "sport": "Horse racing",
+      "event": "Magic Millions Gold Raceday (twilight racing)",
+      "venue": "Aquis Park Gold Coast",
+      "suburb": "Bundall, Gold Coast",
+      "cost": "Paid tickets",
+      "url": "https://www.racingqueensland.com.au/racing/featured-events/magic-millions-gold-raceday",
+      "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=Aquis+Park+Gold+Coast%2C+Bundall%2C+Gold+Coast%2C+QLD",
       "verified": true
     }
   ]
