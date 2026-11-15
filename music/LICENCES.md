@@ -101,3 +101,75 @@ SHA-256 of each encoded file:
 - rusty-bicycle.m4a 1ccd5cae7fc6208ac09c13fb24299e68818f5d76116a098b99ec7ff4ee96c547 (992254 bytes)
 - annabelles-theme.m4a a44e4a2ad2db5a042d0c3efc1b2d924f95595202495eceee4eb0e447255ff814 (934808 bytes)
 
+
+# House playlist from 15 Nov 2026 (slower and softer update)
+
+Wade asked to make the Haven TV house music much slower and softer. The live welcome.json playlist was updated from the 14 Nov 24-track soft jazz set (which had a thin reggae and tropical lounge lilt, volume 0.25) to the 26 tracks below. Total encoded runtime is 67:54 (67.91 minutes). Volume in the content file was lowered from 0.25 to 0.12, which the app reads and applies with no build.
+
+This set is slow, soft instrumental music: gentle solo piano, soft piano and strings, ambient piano, and three slow jazz ballads. Reggae, tropical, off-beat, cafe jazz, guitar jazz, mid-tempo hotel jazz, and busier cues were dropped. Feather In A Storm was left out for sounding denser and brighter than the rest of the piano album. Jazz Ballad Restaurant Quietest Set was left out at 92 BPM. Jazz Ballad Midnight Club Long Warm Take was left out at 136 BPM.
+
+Most tracks are CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), which allows commercial use, including public playback in a commercial short stay, with no attribution required. Each of those Free Music Archive track pages was read on 15 Nov 2026 and links the CC0 deed.
+
+Three slow jazz ballads by Alex Morgan are licensed under Creative Commons Attribution 4.0 International (https://creativecommons.org/licenses/by/4.0/). That licence allows commercial use, including public playback in a commercial short stay, if the artist and licence are credited. Those three are marked CC BY 4.0 in the table below. Credit: Jazz Ballad Cocktail Bar Very Slow Set, Jazz Ballad Sunny Cafe Slow Minor Mood, and Jazz Ballad Study Session in Free Time by Alex Morgan, CC BY 4.0, via Free Music Archive. Official tempos on the FMA pages: Cocktail Bar Very Slow Set 68 BPM, Sunny Cafe Slow Minor Mood 72 BPM. Study Session in Free Time is a rubato piano and bass ballad with no percussion. File tags had no lyrics and no non-commercial licence text.
+
+John Bartmann piano tracks on FMA often have the Instrumental flag set to No, but the album Softly, Boldly, With A Piano is described as contemporary classical piano soundtracks, and file tags had no lyrics. They are included on that basis, as on 14 Nov. Ondrosik, Pablo Perez, Patrick Davies, HoliznaCC0 and Alex Morgan tracks used here are marked Instrumental: Yes.
+
+Nine tracks already encoded on 14 Nov (the soft piano set plus Drifting Piano) were kept as the same files. New tracks were encoded the same way: AAC .m4a at 64 kbps, 44.1 kHz stereo, two-pass loudnorm to about -18 LUFS (true peak -1.5 dB), leading and trailing silence trimmed, metadata and artwork stripped.
+
+| File | Title | Artist | Length | Source | Licence |
+|---|---|---|---|---|---|
+| whispered.m4a | Whispered | Ondrosik | 2:26 | https://freemusicarchive.org/music/Ondrosik/whispered/whispered/ | CC0 1.0 |
+| cocktail-bar-very-slow.m4a | Jazz Ballad Cocktail Bar Very Slow Set | Alex Morgan | 2:57 | https://freemusicarchive.org/music/alex-morgan/cocktail-bar-lounge-jazz-vol-1/jazz-ballad-cocktail-bar-very-slow-set/ | CC BY 4.0 |
+| winter-rain.m4a | Winter Rain | John Bartmann | 2:38 | https://freemusicarchive.org/music/John_Bartmann/softly-boldly-with-a-piano/winter-rain/ | CC0 1.0 |
+| beyond-piano-edit.m4a | Beyond (Piano Edit) | Pablo Perez | 4:20 | https://freemusicarchive.org/music/pablo-perez/single/beyond-piano-edit/ | CC0 1.0 |
+| a-bedtime-confession.m4a | A Bedtime Confession | Ondrosik | 4:37 | https://freemusicarchive.org/music/Ondrosik/whispered/a-bedtime-confession/ | CC0 1.0 |
+| on-a-breeze.m4a | On A Breeze | John Bartmann | 1:50 | https://freemusicarchive.org/music/John_Bartmann/softly-boldly-with-a-piano/on-a-breeze/ | CC0 1.0 |
+| entering-autumn.m4a | Entering Autumn | Patrick Davies | 2:45 | https://freemusicarchive.org/music/patrick-davies/single/entering-autumn/ | CC0 1.0 |
+| study-session-free-time.m4a | Jazz Ballad Study Session in Free Time | Alex Morgan | 3:01 | https://freemusicarchive.org/music/alex-morgan/jazz-study-sessions-vol-2/jazz-ballad-study-session-in-free-time/ | CC BY 4.0 |
+| dotted-stories.m4a | Dotted Stories | Ondrosik | 3:30 | https://freemusicarchive.org/music/Ondrosik/whispered/dotted-stories/ | CC0 1.0 |
+| autumn-wind.m4a | Autumn Wind | John Bartmann | 2:08 | https://freemusicarchive.org/music/John_Bartmann/softly-boldly-with-a-piano/autumn-wind/ | CC0 1.0 |
+| auras-1.m4a | Auras 1 | Pablo Perez | 1:44 | https://freemusicarchive.org/music/pablo-perez/single/auras-1/ | CC0 1.0 |
+| drifting-piano.m4a | Drifting Piano | HoliznaCC0 | 1:46 | https://freemusicarchive.org/music/holiznacc0/background-music/drifting-piano/ | CC0 1.0 |
+| ondrik-and-ivanka.m4a | Ondrik and Ivanka | Ondrosik | 3:34 | https://freemusicarchive.org/music/Ondrosik/whispered/ondrik-and-ivanka/ | CC0 1.0 |
+| poetic-love-letter.m4a | Poetic Love Letter | John Bartmann | 2:44 | https://freemusicarchive.org/music/John_Bartmann/softly-boldly-with-a-piano/poetic-love-letter/ | CC0 1.0 |
+| sunny-cafe-slow-minor.m4a | Jazz Ballad Sunny Cafe Slow Minor Mood | Alex Morgan | 2:56 | https://freemusicarchive.org/music/alex-morgan/cocktail-bar-lounge-jazz-vol-1/jazz-ballad-sunny-cafe-slow-minor-mood/ | CC BY 4.0 |
+| fairitale-2.m4a | Fairitale 2 | Ondrosik | 3:36 | https://freemusicarchive.org/music/Ondrosik/whispered/fairitale-2/ | CC0 1.0 |
+| auras-2.m4a | Auras 2 | Pablo Perez | 2:08 | https://freemusicarchive.org/music/pablo-perez/single/auras-2/ | CC0 1.0 |
+| annabelles-theme.m4a | Annabelle's Theme | John Bartmann | 1:54 | https://freemusicarchive.org/music/John_Bartmann/softly-boldly-with-a-piano/annabelles-theme/ | CC0 1.0 |
+| for-ivanka-2.m4a | For Ivanka 2 | Ondrosik | 3:25 | https://freemusicarchive.org/music/Ondrosik/whispered/for-ivanka-2/ | CC0 1.0 |
+| streets-of-valencia.m4a | Streets Of Valencia | John Bartmann | 2:38 | https://freemusicarchive.org/music/John_Bartmann/softly-boldly-with-a-piano/streets-of-valencia/ | CC0 1.0 |
+| auras-5.m4a | Auras 5 | Pablo Perez | 2:24 | https://freemusicarchive.org/music/pablo-perez/single/auras-5/ | CC0 1.0 |
+| a-secret-comes-out.m4a | A Secret Comes Out | John Bartmann | 1:48 | https://freemusicarchive.org/music/John_Bartmann/softly-boldly-with-a-piano/a-secret-comes-out/ | CC0 1.0 |
+| sunday-evening.m4a | Sunday Evening | Ondrosik | 1:05 | https://freemusicarchive.org/music/Ondrosik/whispered/sunday-evening/ | CC0 1.0 |
+| guessing-game.m4a | Guessing Game | John Bartmann | 2:38 | https://freemusicarchive.org/music/John_Bartmann/softly-boldly-with-a-piano/guessing-game/ | CC0 1.0 |
+| pilgrimage.m4a | Pilgrimage | Ondrosik | 1:22 | https://freemusicarchive.org/music/Ondrosik/whispered/pilgrimage/ | CC0 1.0 |
+| rusty-bicycle.m4a | Rusty Bicycle | John Bartmann | 2:01 | https://freemusicarchive.org/music/John_Bartmann/softly-boldly-with-a-piano/rusty-bicycle/ | CC0 1.0 |
+
+SHA-256 of each encoded file in this playlist:
+
+- whispered.m4a 2c6e2a60af0001dfc2ec39912f61101d8eabf6c4c10bc95e906104fa2df9ff68 (1200805 bytes)
+- cocktail-bar-very-slow.m4a 23eef254efac8b0c8dfe8a97211a7fd95854812664069fec54f1a7d13c211d16 (1461437 bytes)
+- winter-rain.m4a ab93b693a96379e4b483093eccd250414c3cb4ec0e77ce916185a4c23a87b408 (1302189 bytes)
+- beyond-piano-edit.m4a 4798b6d7a64b1921cf8a1ffb68b43e417027c3f62b0019d24af47accc55d1f76 (2136934 bytes)
+- a-bedtime-confession.m4a 1c4e26f5aa49dfa4c27b899dbf655dd6f6d041af5cead3e68277d469bfbbb097 (2279266 bytes)
+- on-a-breeze.m4a eab27d90d1c35b4c80b8baca0bddf150a7db8b1b4134482eba6fb0f6c1dbd463 (903679 bytes)
+- entering-autumn.m4a 1b916a3586940819763200f105ae29998e88b41f2897a555c28fa6779fadf936 (1353343 bytes)
+- study-session-free-time.m4a d1ec608d4c31921245eb77260377d18c195e8987e317af2a2fe0c3d16ee92492 (1496163 bytes)
+- dotted-stories.m4a 4bc7e26242daa36edad30c8e7acae8de43e2d2e94222c93d8ded39c0e9f801f6 (1723410 bytes)
+- autumn-wind.m4a 60b3af2f96d33ecf05052eec11f489f71333c56a0034af9d16b0a7313193418d (1050373 bytes)
+- auras-1.m4a 83f1dbf763707a03a224ccf45eb40ac75861da4fc1167b5253aef9c683c2bca9 (855776 bytes)
+- drifting-piano.m4a 5567bb775534a8f996aa2748f95c75561a3a0bb08ec8ca6fa51eb820e32bcee2 (871976 bytes)
+- ondrik-and-ivanka.m4a 20b88a074b3e74d78fef5ee784269dc3c3720a5298d8847ff314b6c32dd3c986 (1760725 bytes)
+- poetic-love-letter.m4a 4b623220261ae28b79c3e452a2ae3cc2b5108e7355bff58c2517c3cb41859204 (1349215 bytes)
+- sunny-cafe-slow-minor.m4a 59dc1af41e9b183f1c609ea6a345a46b0b6eef4c57a254214f6a65c0a2da7b00 (1446787 bytes)
+- fairitale-2.m4a 98ae1b4ed236d3359de285cb482f5f20dda594167ae3e4eef772c22f8b51b2c8 (1776314 bytes)
+- auras-2.m4a 96cca49d717fd60b9c543aa48d2e54158b1ff79539c2f78988205d99eef3e82c (1049952 bytes)
+- annabelles-theme.m4a a44e4a2ad2db5a042d0c3efc1b2d924f95595202495eceee4eb0e447255ff814 (934808 bytes)
+- for-ivanka-2.m4a fe893acb2dbadd588693ec86a04808969ed32d47fd1d45af3de01cbf2d123a36 (1686774 bytes)
+- streets-of-valencia.m4a 8d645602bad3d7bad83846bd668357462638c1d61eedf3c72154bc232436b49c (1300284 bytes)
+- auras-5.m4a deefd8d2856189c3d60e3ffbac5ea8bcbcde31a2f4e2aa7a25c9f9c6a51a377a (1183963 bytes)
+- a-secret-comes-out.m4a d4bbb8fb1d7cfbb26c7261ade78037b055838fe37945dc7e85877c1aaf4fa28e (891979 bytes)
+- sunday-evening.m4a 44bef1ca7259b324c33cdac600ce85e5700cf4ba2212faf64aad47a9902ebf49 (539281 bytes)
+- guessing-game.m4a 507a8b1d2bf8311661b6df23830b6af52152df98f1bc2af01f50e263ace3c4c6 (1295649 bytes)
+- pilgrimage.m4a df1550708ffec26cebe61d9f919d1ab00e4af5d11301307eb2e231cdf4d8666b (673346 bytes)
+- rusty-bicycle.m4a 1ccd5cae7fc6208ac09c13fb24299e68818f5d76116a098b99ec7ff4ee96c547 (992254 bytes)
