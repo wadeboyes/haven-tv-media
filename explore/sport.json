@@ -1,93 +1,9 @@
 {
-  "generated": "2026-11-16",
-  "window": "2026-11-16 to 2027-01-10",
+  "generated": "2026-11-23",
+  "window": "2026-11-23 to 2027-01-17",
   "timezone": "AEST (Brisbane)",
   "note": "Refresh weekly by hand. Hide events whose date has passed.",
   "events": [
-    {
-      "date": "2026-11-16",
-      "time": "10:00am",
-      "sport": "Cricket (One Day Cup)",
-      "event": "Queensland Bulls v Tasmania",
-      "venue": "The Gabba",
-      "suburb": "Woolloongabba",
-      "cost": "See website",
-      "url": "https://thegabba.com.au/whats-on",
-      "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=The+Gabba%2C+Woolloongabba%2C+QLD",
-      "verified": true
-    },
-    {
-      "date": "2026-11-19",
-      "time": "6:10pm",
-      "sport": "Cricket (WBBL)",
-      "event": "Brisbane Heat v Sydney Thunder",
-      "venue": "Allan Border Field",
-      "suburb": "Albion",
-      "cost": "Paid tickets",
-      "url": "https://www.brisbaneheat.com.au/news/4534951/heat-set-for-prime-time-big-bash",
-      "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=Allan+Border+Field%2C+Albion%2C+QLD",
-      "verified": true
-    },
-    {
-      "date": "2026-11-19",
-      "time": "2:40pm",
-      "sport": "Cricket (WBBL)",
-      "event": "Hobart Hurricanes v Perth Scorchers (day game before Heat v Thunder)",
-      "venue": "Allan Border Field",
-      "suburb": "Albion",
-      "cost": "Paid tickets",
-      "url": "https://www.hobarthurricanes.com.au/matches",
-      "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=Allan+Border+Field%2C+Albion%2C+QLD",
-      "verified": true
-    },
-    {
-      "date": "2026-11-21",
-      "time": "3:50pm",
-      "sport": "Football (A-League Women)",
-      "event": "Brisbane Roar v Melbourne City",
-      "venue": "Kayo Stadium",
-      "suburb": "Redcliffe",
-      "cost": "Paid tickets",
-      "url": "https://brisbaneroar.com.au/news/brisbane-roar-2026-27-ninja-a-league-women-draw-confirmed/",
-      "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=Kayo+Stadium%2C+Redcliffe%2C+QLD",
-      "verified": true
-    },
-    {
-      "date": "2026-11-21",
-      "time": "6:40pm",
-      "sport": "Football (A-League Men)",
-      "event": "Brisbane Roar v Sydney FC",
-      "venue": "Kayo Stadium",
-      "suburb": "Redcliffe",
-      "cost": "Paid tickets",
-      "url": "https://brisbaneroar.com.au/news/brisbane-roar-2026-27-isuzu-ute-a-league-men-draw-confirmed/",
-      "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=Kayo+Stadium%2C+Redcliffe%2C+QLD",
-      "verified": true
-    },
-    {
-      "date": "2026-11-22",
-      "time": "4:00pm",
-      "sport": "Basketball (NBL)",
-      "event": "Brisbane Bullets v Sydney Kings",
-      "venue": "Brisbane Entertainment Centre",
-      "suburb": "Boondall",
-      "cost": "Paid tickets",
-      "url": "https://www.brisbanebullets.com.au/schedule",
-      "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=Brisbane+Entertainment+Centre%2C+Boondall%2C+QLD",
-      "verified": true
-    },
-    {
-      "date": "2026-11-22",
-      "time": "2:40pm",
-      "sport": "Cricket (WBBL)",
-      "event": "Brisbane Heat v Adelaide Strikers",
-      "venue": "Allan Border Field",
-      "suburb": "Albion",
-      "cost": "Paid tickets",
-      "url": "https://www.brisbaneheat.com.au/news/4534951/heat-set-for-prime-time-big-bash",
-      "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=Allan+Border+Field%2C+Albion%2C+QLD",
-      "verified": true
-    },
     {
       "date": "2026-11-24",
       "time": "6:15pm",
@@ -410,6 +326,42 @@
       "cost": "Paid tickets",
       "url": "https://www.racingqueensland.com.au/racing/featured-events/magic-millions-gold-raceday",
       "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=Aquis+Park+Gold+Coast%2C+Bundall%2C+Gold+Coast%2C+QLD",
+      "verified": true
+    },
+    {
+      "date": "2027-01-16",
+      "time": "First race about 12:30pm, last race about 5:55pm, gates 9:00am",
+      "sport": "Horse racing",
+      "event": "TAB Magic Millions Raceday (2YO Classic and 3YO Guineas)",
+      "venue": "Aquis Park Gold Coast",
+      "suburb": "Bundall, Gold Coast",
+      "cost": "Paid tickets",
+      "url": "https://gctc.com.au/event/tab-magic-millions-raceday-saturday-16-january-2027/",
+      "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=Aquis+Park+Gold+Coast%2C+Bundall%2C+Gold+Coast%2C+QLD",
+      "verified": true
+    },
+    {
+      "date": "2027-01-17",
+      "time": "4:00pm",
+      "sport": "Football (A-League Women)",
+      "event": "Brisbane Roar v Adelaide United",
+      "venue": "Spencer Park",
+      "suburb": "Newmarket",
+      "cost": "Paid tickets",
+      "url": "https://brisbaneroar.com.au/news/brisbane-roar-2026-27-ninja-a-league-women-draw-confirmed/",
+      "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=Spencer+Park%2C+Newmarket%2C+QLD",
+      "verified": true
+    },
+    {
+      "date": "2027-01-17",
+      "time": "6:10pm",
+      "sport": "Cricket (BBL)",
+      "event": "Brisbane Heat v Sydney Thunder (Road Safety Cup, last regular season game)",
+      "venue": "The Gabba",
+      "suburb": "Woolloongabba",
+      "cost": "Paid tickets",
+      "url": "https://www.brisbaneheat.com.au/news/4563118/heats-hot-gabba-ticket",
+      "directions": "https://www.google.com/maps/dir/?api=1&origin=-27.48569,153.05724&destination=The+Gabba%2C+Woolloongabba%2C+QLD",
       "verified": true
     }
   ]
