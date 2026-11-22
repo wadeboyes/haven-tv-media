@@ -173,3 +173,28 @@ SHA-256 of each encoded file in this playlist:
 - guessing-game.m4a 507a8b1d2bf8311661b6df23830b6af52152df98f1bc2af01f50e263ace3c4c6 (1295649 bytes)
 - pilgrimage.m4a df1550708ffec26cebe61d9f919d1ab00e4af5d11301307eb2e231cdf4d8666b (673346 bytes)
 - rusty-bicycle.m4a 1ccd5cae7fc6208ac09c13fb24299e68818f5d76116a098b99ec7ff4ee96c547 (992254 bytes)
+
+## Christmas house playlist from 22 Nov 2026
+
+For the holidays the live welcome.json house playlist was switched to the 15 Christmas tracks below, in music/christmas/. The 15 Nov slower, softer set is unchanged in this folder and goes back after the holidays.
+All 15 are by Kevin MacLeod (incompetech.com) and are licensed under Creative Commons Attribution 4.0 International (https://creativecommons.org/licenses/by/4.0/). That licence allows commercial use, including public playback in a commercial short stay, if the credit is placed where a person who wants to know where the music came from can find it. The carols themselves are traditional public domain compositions; the recordings and arrangements are Kevin MacLeod's.
+Credit line for each track: <Title> Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 License http://creativecommons.org/licenses/by/4.0/
+Licence read on the incompetech.com FAQ and licences pages on 22 Nov 2026. Source files are the incompetech mp3 downloads listed below. Converted to AAC .m4a at 64 kbps, 44.1 kHz stereo, two-pass loudnorm to about -18 LUFS, leading and trailing silence trimmed, metadata stripped.
+
+| File | Title | Artist | Length | Source | Licence |
+|---|---|---|---|---|---|
+| christmas/silent-night.m4a | Silent Night | Kevin MacLeod (incompetech.com) | 2:08 | https://incompetech.com/music/royalty-free/mp3-royaltyfree/Silent%20Night.mp3 | CC BY 4.0 |
+| christmas/deck-the-halls.m4a | Deck the Halls | Kevin MacLeod (incompetech.com) | 4:03 | https://incompetech.com/music/royalty-free/mp3-royaltyfree/Deck%20the%20Halls%20A.mp3 | CC BY 4.0 |
+| christmas/jingle-bells.m4a | Jingle Bells | Kevin MacLeod (incompetech.com) | 2:17 | https://incompetech.com/music/royalty-free/mp3-royaltyfree/Jingle%20Bells.mp3 | CC BY 4.0 |
+| christmas/o-holy-night.m4a | O Holy Night | Kevin MacLeod (incompetech.com) | 3:53 | https://incompetech.com/music/royalty-free/mp3-royaltyfree/Oh%20Holy%20Night.mp3 | CC BY 4.0 |
+| christmas/adeste-fideles-waltz.m4a | Adeste Fideles Waltz | Kevin MacLeod (incompetech.com) | 2:14 | https://incompetech.com/music/royalty-free/mp3-royaltyfree/Adeste%20Fideles%20Waltz.mp3 | CC BY 4.0 |
+| christmas/midnight-clear.m4a | It Came Upon a Midnight Clear | Kevin MacLeod (incompetech.com) | 4:20 | https://incompetech.com/music/royalty-free/mp3-royaltyfree/It%20Came%20Upon%20a%20Midnight%20Clear.mp3 | CC BY 4.0 |
+| christmas/we-wish-you.m4a | We Wish You a Merry Christmas | Kevin MacLeod (incompetech.com) | 2:09 | https://incompetech.com/music/royalty-free/mp3-royaltyfree/We%20Wish%20You.mp3 | CC BY 4.0 |
+| christmas/what-child-is-this.m4a | What Child Is This | Kevin MacLeod (incompetech.com) | 2:10 | https://incompetech.com/music/royalty-free/mp3-royaltyfree/What%20Child%20is%20This.mp3 | CC BY 4.0 |
+| christmas/sugar-plum-fairies.m4a | Dance of the Sugar Plum Fairies | Kevin MacLeod (incompetech.com) | 1:43 | https://incompetech.com/music/royalty-free/mp3-royaltyfree/Dance%20Of%20The%20Sugar%20Plum%20Fairies.mp3 | CC BY 4.0 |
+| christmas/little-town-of-bethlehem.m4a | O Little Town of Bethlehem | Kevin MacLeod (incompetech.com) | 1:43 | https://incompetech.com/music/royalty-free/mp3-royaltyfree/Bethlehem.mp3 | CC BY 4.0 |
+| christmas/nouvelle-noel.m4a | Nouvelle Noel | Kevin MacLeod (incompetech.com) | 3:06 | https://incompetech.com/music/royalty-free/mp3-royaltyfree/Nouvelle%20Noel.mp3 | CC BY 4.0 |
+| christmas/angels-we-have-heard.m4a | Angels We Have Heard on High | Kevin MacLeod (incompetech.com) | 3:56 | https://incompetech.com/music/royalty-free/mp3-royaltyfree/Angels%20We%20Have%20Heard%20%28piano%29.mp3 | CC BY 4.0 |
+| christmas/o-christmas-tree.m4a | O Christmas Tree | Kevin MacLeod (incompetech.com) | 0:48 | https://incompetech.com/music/royalty-free/mp3-royaltyfree/Oh%20Xmas.mp3 | CC BY 4.0 |
+| christmas/jesu-joy.m4a | Jesu, Joy of Man's Desiring | Kevin MacLeod (incompetech.com) | 3:11 | https://incompetech.com/music/royalty-free/mp3-royaltyfree/Jesu.mp3 | CC BY 4.0 |
+| christmas/wish-background.m4a | Wish Background | Kevin MacLeod (incompetech.com) | 19:28 | https://incompetech.com/music/royalty-free/mp3-royaltyfree/Wish%20Background.mp3 | CC BY 4.0 |
